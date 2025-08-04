@@ -17,5 +17,5 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python log_analyzer.py logs/sample.log
+python log_analyzer.py
 ```
