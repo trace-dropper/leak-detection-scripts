@@ -12,8 +12,10 @@ This project contains scripts to analyze logs and detect signs of suspicious or 
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Usage
 
 ```bash
 python log_analyzer.py logs/sample.log
+```
